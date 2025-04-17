@@ -1,9 +1,14 @@
 body{
   background-color: #368ABF;
   color: aliceblue;
+  margin: 0;
+  padding: 0;
+
 }
 h1{
   color: #000000;
+  font-family: "Poiret One", sans-serif;
+
 }
 
 div{
@@ -11,4 +16,5 @@ div{
   padding: 10px, 20px;
   margin: 10px;
   border-radius: 20px;
+  box-shadow: 10px 5px 5pxb rgb(0, 0, 0);
 }
